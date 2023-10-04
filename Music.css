@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.sleep-background {
+    background-color: #03174c;
+    height: 100vh;
+}
+.sleep-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 40vh;
+    background-size: cover;
+}
+.sleep-text-container {
+    text-align: center;
+    padding: 40px;
+}
+.sleep-title {
+    color: #ffffff;
+    font-family: "bree Serif";
+    font-size: 30px;
+    font-weight: 500;
+
+}
+.sleep-descrition {
+    color: #ffffff;
+    font-family: "bree Serif";
+    font-size: 16px;
+}
+.island-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    background-size: cover;
+    height: 40vh;
+    padding: 10px;
+}
+.island-title {
+    color: #ffe7bf;
+    font-family: "bree Serif";
+    font-size: 30px;
+    font-weight: 500;
+    padding: 70px;
+}
+.island-descrition {
+    color: #ffffff;
+    font-family: "bree Serif";
+    font-size: 16px;
+}
+.get-button {
+    background-color: #8e97fd;
+    border-radius: 15px;
+    color: #ffffff;
+    padding: 5px;
+    width: 96px;
+    font-size: 14px;
+}
+.night-islane-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/clouds-img.png");
+    height: 40vh;
+    background-size: cover;
+}
+.night-island-title {
+    color: #ffffff;
+    font-family: "bree Serif";
+    font-size: 30px;
+    font-weight: 500;
+    margin: 10px;
+}
+.island-bottom-descrition {
+    color: #98a1bd;
+    font-family: "bree Serif";
+    font-size: 14px;
+    margin: 10px;
+}
+.night-island-title {
+    color: #ffffff;
+    font-family: "bree Serif";
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px;
+}
+.related-image {
+    height: 20vh;
+    margin: 10px;
+}
+.related-card-container {
+    margin-right: 10px;
+    margin-left: 20px;
+}
+.back-button {
+    border-radius: 15px;
+    color: #ffffff;
+    padding: 5px;
+    width: 96px;
+    font-size: 14px;
+    background-color: #8e97fd;
+    border-width: 0px;
+    margin-left: 20px;
+}
